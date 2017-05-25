@@ -68,6 +68,7 @@ window.ReactVR = {
 ### 将hello修改成“21点见”
 PS:21点见 是我们研发的一小时内容直播平台。
 欢迎扫码看看：
+
 ![二维码](http://ooqqekwlc.bkt.clouddn.com/ershiyi_dj.png)
 
 ### 设置单独的字体
@@ -124,6 +125,7 @@ window.ReactVR = {
 ### 将hello修改成“21点见”
 PS:21点见 是我们研发的一小时内容直播平台。
 欢迎扫码看看：
+
 ![二维码](http://ooqqekwlc.bkt.clouddn.com/ershiyi_dj.png)
 
 
